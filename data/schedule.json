@@ -1,0 +1,20 @@
+{
+    "schedule": [
+      {
+        "date": "2024-06-05",
+        "location": "Village A",
+        "description": "Scheduled water delivery"
+      },
+      {
+        "date": "2024-06-06",
+        "location": "Village B",
+        "description": "Scheduled water delivery"
+      },
+      {
+        "date": "2024-06-07",
+        "location": "Village C",
+        "description": "Scheduled water delivery"
+      }
+    ]
+  }
+  
